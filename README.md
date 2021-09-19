@@ -1,5 +1,5 @@
 # Loan-Repayment-Prediction-with-Random-Forest-classifier
-This is the code for predictng the repayment of Laon amount off of features of the borrowers (data from LendingClub).
+This is the code for predicting the repayment of Loan amount based off of features of the borrowers (data from LendingClub).
 
 # Overview
 For this project I will be exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). I am trying to create a model that will help predict this.
